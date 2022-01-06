@@ -3,6 +3,12 @@
 # _CRUD Invoice_
 
 ## Installation
+
+### Setup
+```
+composer install
+```
+
 ### .Env
 ```
 DB_CONNECTION=mysql
